@@ -2,7 +2,8 @@
 
 ## Objetivo
 Proyectar la cantidad de personas con **diabetes diagnosticada** en Argentina para el año **2040**
-considerando 3 escenarios: optimista, normal y pesimista, con datos **oficiales y validados**.
+considerando 3 escenarios: optimista, normal y pesimista, con datos **oficiales y validados**. Luego se compara
+con datos Internacionales
 
 ##  Hallazgos Principales
 
@@ -25,5 +26,9 @@ Ver notebook completo: [`notebooks/proyeccion_diabetes.ipynb`](notebooks/proyecc
 ##  Validación internacional
 - **Compatible con OPS/OMS**: prevalencia ~10% ([fuente](https://www.paho.org/es/temas/diabetes))
 - **Más realista que IDF**: porque solo incluye **casos diagnosticados**, no estimados ([IDF Diabetes Atlas](https://diabetesatlas.org))
+
+Este trabajo fue realizado con fines educativos y de práctica.
+Los datos y resultados no deben utilizarse como fuente de verdad absoluta ni para tomar decisiones clínicas ni políticas.
+El único objetivo fue aprender a analizar datos reales.
 
 Maria Cecilia Perrotta
