@@ -17,23 +17,6 @@ considerando 3 escenarios: optimista, normal y pesimista, con datos **oficiales 
 18-24 años: 5.9% prevalencia
 Ver notebook completo: [`notebooks/proyeccion_diabetes.ipynb`](notebooks/proyeccion_diabetes.ipynb)
 
-## Gráficos
-
-### 1. Total por escenario
-![Barras totales](resultados/01_barras_totales.png)
-
-### 2. Por sexo (barras apiladas)
-![Barras por sexo](resultados/02_barras_por_sexo.png)
-
-### 3. Por sexo (tortas)
-![Tortas 2040](resultados/03_tortas_2040.png)
-
-### 4. Comparación con IDF
-![Comparación IDF](resultados/04_comparacion_idf.png)
-
-### 5. Comparación con OPS (prevalencia %)
-![Comparación OPS](resultados/05_comparacion_ops.png)
-
  ##  Fuentes oficiales
 - **Población**: [Censo 2022 - INDEC](https://www.indec.gob.ar/indec/web/Nivel4-Tema-2-9-135)
 - **Prevalencia**: [ENFR 2018 - Ministerio de Salud](https://www.argentina.gob.ar/salud/enfr)
