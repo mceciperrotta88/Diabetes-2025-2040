@@ -30,13 +30,16 @@ con datos Internacionales
 El análisis completo está en el notebook completo https://github.com/mceciperrotta88/Diabetes-2025-2040/blob/main/proyectodiabetes.ipynb
 
  ##  Fuentes oficiales
+ 
 - **Población**: [Censo 2022 - INDEC](https://www.indec.gob.ar/indec/web/Nivel4-Tema-2-9-135)
 - **Prevalencia**: [ENFR 2018 - Ministerio de Salud](https://www.argentina.gob.ar/salud/enfr)
 - **Proyección poblacional**: [INDEC](https://www.indec.gob.ar/indec/web/Nivel4-Tema-2-9-135)
 
 ##  Validación internacional
-- **Compatible con OPS/OMS**: prevalencia ~10% ([fuente](https://www.paho.org/es/temas/diabetes))
-- **Más realista que IDF**: porque solo incluye **casos diagnosticados**, no estimados ([IDF Diabetes Atlas](https://diabetesatlas.org))
+
+“Los resultados son compatibles con la prevalencia reportada por **OPS/OMS prevalencia ~10%**  ([fuente](https://www.paho.org/es/temas/diabetes)) 
+A diferencia del **Atlas de la FID, que incluye estimaciones de casos no diagnosticados** ([IDF Diabetes Atlas](https://diabetesatlas.org))
+
 
 ## Limitaciones 
 
