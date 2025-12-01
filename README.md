@@ -22,14 +22,6 @@ con datos Internacionales
 - **Normal**: 5.56 millones  
 - **Pesimista**: 6.67 millones
 
-**Distribución por edad (2040)**:
-
-50-64 años: 19.3% prevalencia (mayor carga)
-
-65+ años: 21.4% prevalencia
-
-18-24 años: 5.9% prevalencia
-
 El análisis completo está en el notebook completo https://github.com/mceciperrotta88/Diabetes-2025-2040/blob/main/proyectodiabetes.ipynb
 
  ##  Fuentes oficiales
