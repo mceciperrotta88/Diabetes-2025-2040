@@ -13,6 +13,7 @@ con datos Internacionales
 | 2040 | 4.56M             | 9.6%        |
 
 **Distribución por edad (2040)**:
+
 50-64 años: 19.3% prevalencia (mayor carga)
 65+ años: 21.4% prevalencia
 18-24 años: 5.9% prevalencia
@@ -26,6 +27,12 @@ El análisis completo está en el notebook completo https://github.com/mceciperr
 ##  Validación internacional
 - **Compatible con OPS/OMS**: prevalencia ~10% ([fuente](https://www.paho.org/es/temas/diabetes))
 - **Más realista que IDF**: porque solo incluye **casos diagnosticados**, no estimados ([IDF Diabetes Atlas](https://diabetesatlas.org))
+
+## Limitaciones 
+
+- Factor de crecimiento poblacional general (no por edad)
+- Prevalencias constantes (ENFR 2018)
+- Solo casos diagnosticados
 
 Este trabajo fue realizado con fines educativos y de práctica.
 Los datos y resultados no deben utilizarse como fuente de verdad absoluta ni para tomar decisiones clínicas ni políticas.
