@@ -1,16 +1,26 @@
 # Proyección de Diabetes en Argentina 2025-2040
 
 ## Objetivo
+
 Proyectar la cantidad de personas con **diabetes diagnosticada** en Argentina para el año **2040**
 considerando 3 escenarios: optimista, normal y pesimista, con datos **oficiales y validados**. Luego se compara
 con datos Internacionales
 
-##  Hallazgos Principales
+##  Metodología
 
-| Año  | Casos Proyectados | Prevalencia |
-|------|-------------------|-------------|
-| 2025 | 4.45M             | 9.6%        |
-| 2040 | 4.56M             | 9.6%        |
+- Se construyo un **modelo de proyección epidemiológica simple**, basado en prevalencias observadas y supuestos de crecimiento poblacional.  
+- Se definieron tres escenarios:  
+  - **Optimista**  
+  - **Normal**  
+  - **Pesimista**  
+- Los resultados se estratificaron por sexo (👩 ~52%, 👨 ~48%).  
+
+
+##  Resultados principales
+
+- **Optimista**: 4.41 millones de casos diagnosticados en 2040  
+- **Normal**: 5.56 millones  
+- **Pesimista**: 6.67 millones
 
 **Distribución por edad (2040)**:
 
@@ -30,9 +40,12 @@ El análisis completo está en el notebook completo https://github.com/mceciperr
 
 ## Limitaciones 
 
-- Factor de crecimiento poblacional general (no por edad)
-- Prevalencias constantes (ENFR 2018)
-- Solo casos diagnosticados
+El modelo **no predice casos no diagnosticados** sino solo los registrados oficialmente  
+Es un ejercicio exploratorio y académico, no una predicción definitiva 
+No se aplicaron técnicas estadísticas avanzadas
+
+
+## Importante
 
 Este trabajo fue realizado con fines educativos y de práctica.
 Los datos y resultados no deben utilizarse como fuente de verdad absoluta ni para tomar decisiones clínicas ni políticas.
