@@ -13,7 +13,7 @@ con datos Internacionales
   - **Optimista**  
   - **Normal**  
   - **Pesimista**  
-- Los resultados se estratificaron por sexo (👩 ~52%, 👨 ~48%).  
+- Los resultados se estratificaron por sexo (Mujeres ~52%, Hombres ~48%).  
 
 
 ##  Resultados principales
