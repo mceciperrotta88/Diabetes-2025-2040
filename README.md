@@ -29,6 +29,6 @@ El análisis completo está en el notebook completo https://github.com/mceciperr
 
 Este trabajo fue realizado con fines educativos y de práctica.
 Los datos y resultados no deben utilizarse como fuente de verdad absoluta ni para tomar decisiones clínicas ni políticas.
-El único objetivo fue aprender a analizar datos reales.
+El único objetivo fue aprender a analizar datos reales como parte de una practica estudiantil
 
 Maria Cecilia Perrotta
