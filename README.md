@@ -16,7 +16,7 @@ con datos Internacionales
 50-64 años: 19.3% prevalencia (mayor carga)
 65+ años: 21.4% prevalencia
 18-24 años: 5.9% prevalencia
-Ver notebook completo: [`notebooks/proyeccion_diabetes.ipynb`](notebooks/proyeccion_diabetes.ipynb)
+Ver notebook completo: [`notebooks/proyecctodiabetes.ipynb`](notebooks/proyectodiabetes.ipynb)
 
  ##  Fuentes oficiales
 - **Población**: [Censo 2022 - INDEC](https://www.indec.gob.ar/indec/web/Nivel4-Tema-2-9-135)
