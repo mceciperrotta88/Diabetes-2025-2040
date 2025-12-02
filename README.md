@@ -12,15 +12,15 @@ con datos Internacionales
 - Se definieron tres escenarios:  
   - **Optimista**  
   - **Normal**  
-  - **Pesimista**  
-- Los resultados se estratificaron por sexo (Mujeres ~52%, Hombres ~48%).  
-
+  - **Pesimista** 
 
 ##  Resultados principales
 
-- **Optimista**: 4.41 millones de casos diagnosticados en 2040  
-- **Normal**: 5.56 millones  
-- **Pesimista**: 6.67 millones
+4.56 millones de casos diagnosticados en 2040
+
+- **Optimista**:  3.65 millones millones    
+- **Normal**: 5.56 millones
+-**Pesimista**: 5.47 millones
 
 El análisis completo está en el notebook completo https://github.com/mceciperrotta88/Diabetes-2025-2040/blob/main/proyectodiabetes.ipynb
 
