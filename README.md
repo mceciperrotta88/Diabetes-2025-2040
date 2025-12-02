@@ -29,7 +29,7 @@ El análisis completo está en el notebook completo https://github.com/mceciperr
 - **Población**: [Censo 2022 - INDEC](https://www.indec.gob.ar/indec/web/Nivel4-Tema-2-9-135)
 - **Prevalencia**: [ENFR 2018 - Ministerio de Salud](https://www.argentina.gob.ar/salud/enfr)
 - **Proyección poblacional**: [INDEC](https://www.indec.gob.ar/indec/web/Nivel4-Tema-2-9-135)
-- **Comparacion Internacional: ([IDF Diabetes Atlas](https://diabetesatlas.org)) & ([IDF Diabetes Atlas](https://diabetesatlas.org))
+- **Comparacion Internacional: ([IDF Diabetes Atlas](https://diabetesatlas.org)) & ([IDF Diabetes Atlas](https://diabetesatlas.org))**
 
 
 ## Limitaciones 
