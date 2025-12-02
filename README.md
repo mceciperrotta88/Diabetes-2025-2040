@@ -29,17 +29,13 @@ El análisis completo está en el notebook completo https://github.com/mceciperr
 - **Población**: [Censo 2022 - INDEC](https://www.indec.gob.ar/indec/web/Nivel4-Tema-2-9-135)
 - **Prevalencia**: [ENFR 2018 - Ministerio de Salud](https://www.argentina.gob.ar/salud/enfr)
 - **Proyección poblacional**: [INDEC](https://www.indec.gob.ar/indec/web/Nivel4-Tema-2-9-135)
-
-##  Validación internacional
-
-“Los resultados son compatibles con la prevalencia reportada por **OPS/OMS prevalencia ~10%**  ([fuente](https://www.paho.org/es/temas/diabetes)) 
-A diferencia del **Atlas de la FID, que incluye estimaciones de casos no diagnosticados** ([IDF Diabetes Atlas](https://diabetesatlas.org))
+- **Comparacion Internacional: ([IDF Diabetes Atlas](https://diabetesatlas.org)) & ([IDF Diabetes Atlas](https://diabetesatlas.org))
 
 
 ## Limitaciones 
 
 El modelo **no predice casos no diagnosticados** sino solo los registrados oficialmente  
-Es un ejercicio exploratorio y académico, no una predicción definitiva 
+Es un ejercicio exploratorio y académico ni tampoco  una predicción definitiva 
 No se aplicaron técnicas estadísticas avanzadas
 
 
