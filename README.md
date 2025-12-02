@@ -19,8 +19,8 @@ con datos Internacionales
 4.56 millones de casos diagnosticados en 2040
 
 - **Optimista**:  3.65 millones millones    
-- **Normal**: 5.56 millones
--**Pesimista**: 5.47 millones
+- **Normal**: 4.56 millones
+- **Pesimista**: 5.47 millones
 
 El análisis completo está en el notebook completo https://github.com/mceciperrotta88/Diabetes-2025-2040/blob/main/proyectodiabetes.ipynb
 
