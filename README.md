@@ -35,7 +35,7 @@ El análisis completo está en el notebook completo https://github.com/mceciperr
 ## Limitaciones 
 
 El modelo **no predice casos no diagnosticados** sino solo los registrados oficialmente  
-Es un ejercicio exploratorio y académico ni tampoco  una predicción definitiva 
+Es un ejercicio exploratorio y académico, por lo no tanto no es una predicción definitiva 
 No se aplicaron técnicas estadísticas avanzadas
 
 
